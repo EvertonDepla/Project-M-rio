@@ -1,7 +1,7 @@
-<h1> Project Mário</h1>
+<h1 align="center"> Project Mário</h1>
 <br>
 <br>
-<h2>Esse foi o meu primeiro projeto utilizando Java Script</h2>
+<h2 align="center">Esse foi o meu primeiro projeto utilizando Java Script</h2>
 
 <h2>Tecnologias utilizadas:
  <br> <br>
